@@ -16,4 +16,6 @@
 - 📖 Micro Controller on which I have work : Arduino all -family ,Raspberry pi 4, Esp32 ,8085
 - ⭐ I have done lots of Projects in the development area you can see my all the porject on my Github repo. and find the source code
 - ⭐ Now I am working on the vue js Framework in the development area
-  
+- ⭐ I am completing my Graduation in B.sc in mathematics and currently I am pursuing my B.tech in Computer Science
+- ⭐ Achivement I have got All india Rank 1318 in IIT jam mathematics in 2022
+- ⭐ Certification : Power bi , Ardiuno ,Raspberry pi ,MERN Stack developer , Opencv ,Ethical Hacking, Full stack development

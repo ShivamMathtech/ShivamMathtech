@@ -1,0 +1,19 @@
+- 👋 Hi, I’m Shivam Singh
+- 👀 I’m interested in Development and Quantum Computing
+- 💞️ I'm a FUll stack Developer in Python and also MERN Stack Developer
+- 📫 I am freelancer you can contact with me 8896497776 for any kind of website design and mangement
+- 📖 Programming language : C,C++, C#,Python,Java 
+- 📖 Frontend Development HTML,CSS ,Javascript, React js
+- 📖 Backend Node js ,php ,JAVA, Python
+- 📖 Frameworks : django, React js, Nodejs ,Express js, Spring ,Angular js ,Hibernate ,laravel ,Jquery, Bootstrap, 
+- 📖 Database : Mysql ,Sqlite ,Mongodb , Oracle
+- 📖 Operating System : linux, windos,ubantu
+- 📖 Design : figma ,adobe Xd ,Photoshop, Canva
+- 📖 Python Standard Library  : numpy ,pandas, tensorFlow ,Scipy,Scikit-learn
+- 📖 Data visualization tools : PowerBi ,Excel
+- 📖 Software : Vscode , Anaconda ,Sublime , Jupyter Notebook ,Pycharm ,Intellijidea
+- 📖 I am highly intersted in the area of Embedded system design and Internet of things
+- 📖 Micro Controller on which I have work : Arduino all -family ,Raspberry pi 4, Esp32 ,8085
+- ⭐ I have done lots of Projects in the development area you can see my all the porject on my Github repo. and find the source code
+- ⭐ Now I am working on the vue js Framework in the development area
+  

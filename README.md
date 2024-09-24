@@ -8,8 +8,8 @@
 
 - 📖 Frameworks : ![Static Badge](https://img.shields.io/badge/django-bordeaux) ![Static Badge](https://img.shields.io/badge/React_js-yellow) ![Static Badge](https://img.shields.io/badge/Node_js-red) ![Static Badge](https://img.shields.io/badge/Express_js-black) ![Static Badge](https://img.shields.io/badge/Spring-tommto) ![Static Badge](https://img.shields.io/badge/Angular_js-purple) ![Static Badge](https://img.shields.io/badge/Bootstrap-pink) ![Static Badge](https://img.shields.io/badge/jquery-red) 
 - 📖 Database : ![Static Badge](https://img.shields.io/badge/Mysql-yellpw) ![Static Badge](https://img.shields.io/badge/Sqlite-yellow)  ![Static Badge](https://img.shields.io/badge/Mongodb-red)
-- 📖 Operating System : ![Static Badge](https://img.shields.io/badge/Linux-black) ![Static Badge](https://img.shields.io/badge/windows-blue) ![Static Badge](https://img.shields.io/badge/unbantu-bordeaux)
-- 📖 Design : ![Static Badge](https://img.shields.io/badge/Figma-coral) ![Static Badge](https://img.shields.io/badge/Adobe-xd-red) ![Static Badge](https://img.shields.io/badge/Photohsop-pine) ![Static Badge](https://img.shields.io/badge/Canva-green)
+- 📖 Operating System : ![Static Badge](https://img.shields.io/badge/Linux-black) ![Static Badge](https://img.shields.io/badge/windows-blue) ![Static Badge](https://img.shields.io/badge/ubuntu-bordeaux)
+- 📖 Design : ![Static Badge](https://img.shields.io/badge/Figma-coral) ![Static Badge](https://img.shields.io/badge/Adobe-xd-red) ![Static Badge](https://img.shields.io/badge/photoshop-pine) ![Static Badge](https://img.shields.io/badge/Canva-green)
 - 📖 Python Standard Library  : numpy ,pandas, tensorFlow ,Scipy,Scikit-learn
 - 📖 Data visualization tools : PowerBi ,Excel
 - 📖 Software : Vscode , Anaconda ,Sublime , Jupyter Notebook ,Pycharm ,Intellijidea

@@ -3,10 +3,11 @@
 - 💞️ I'm a FUll stack Developer in Python and also MERN Stack Developer
 - 📫 I am freelancer you can contact with me 8896497776 for any kind of website design and mangement
 - 📖 Programming language : C,C++, C#,Python,Java 
-- 📖 Frontend Development HTML,CSS ,Javascript, React js
+- 📖 Frontend Development HTML,CSS ,Javascript, React js , ![Static Badge](https://img.shields.io/badge/demo_badge-red)
+
 - 📖 Backend Node js ,php ,JAVA, Python
 - 📖 Frameworks : django, React js, Nodejs ,Express js, Spring ,Angular js ,Hibernate ,laravel ,Jquery, Bootstrap, 
-- 📖 Database : Mysql ,Sqlite ,Mongodb , Oracle
+- 📖 Database : Mysql ,Sqlite ,Mongodb , Oracle,
 - 📖 Operating System : linux, windos,ubantu
 - 📖 Design : figma ,adobe Xd ,Photoshop, Canva
 - 📖 Python Standard Library  : numpy ,pandas, tensorFlow ,Scipy,Scikit-learn

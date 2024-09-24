@@ -7,7 +7,7 @@
 - 📖 Backend Development : ![Static Badge](https://img.shields.io/badge/Node_js-red) ![Static Badge](https://img.shields.io/badge/Python-blue) ![Static Badge](https://img.shields.io/badge/PHP-green) ![Static Badge](https://img.shields.io/badge/JAVA-lime) ![Static Badge](https://img.shields.io/badge/C%23-skyblue)
 
 - 📖 Frameworks : ![Static Badge](https://img.shields.io/badge/django-bordeaux) ![Static Badge](https://img.shields.io/badge/React_js-yellow) ![Static Badge](https://img.shields.io/badge/Node_js-red) ![Static Badge](https://img.shields.io/badge/Express_js-black) ![Static Badge](https://img.shields.io/badge/Spring-tommto) ![Static Badge](https://img.shields.io/badge/Angular_js-purple) ![Static Badge](https://img.shields.io/badge/Bootstrap-pink) ![Static Badge](https://img.shields.io/badge/jquery-red) 
-- 📖 Database : Mysql ,Sqlite ,Mongodb , Oracle,
+- 📖 Database : ![Static Badge](https://img.shields.io/badge/Mysql-yellpw) ![Static Badge](https://img.shields.io/badge/Sqlite-yellow)  ![Static Badge](https://img.shields.io/badge/Mongodb-red)
 - 📖 Operating System : ![Static Badge](https://img.shields.io/badge/Linux-black) ![Static Badge](https://img.shields.io/badge/windows-blue) ![Static Badge](https://img.shields.io/badge/unbantu-bordeaux)
 - 📖 Design : figma ,adobe Xd ,Photoshop, Canva
 - 📖 Python Standard Library  : numpy ,pandas, tensorFlow ,Scipy,Scikit-learn

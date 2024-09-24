@@ -6,7 +6,7 @@
 - 📖 Frontend Development ![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-green) ![Static Badge](https://img.shields.io/badge/Javascript-lime) ![Static Badge](https://img.shields.io/badge/Reactjs-blue) ![Static Badge](https://img.shields.io/badge/Bootstarp-yellow)
 - 📖 Backend Development : ![Static Badge](https://img.shields.io/badge/Node_js-red) ![Static Badge](https://img.shields.io/badge/Python-blue) ![Static Badge](https://img.shields.io/badge/PHP-green) ![Static Badge](https://img.shields.io/badge/JAVA-lime) ![Static Badge](https://img.shields.io/badge/C%23-skyblue)
 
-- 📖 Frameworks : django, React js, Nodejs ,Express js, Spring ,Angular js ,Hibernate ,laravel ,Jquery, Bootstrap, 
+- 📖 Frameworks : ![Static Badge](https://img.shields.io/badge/django-bordeaux) ![Static Badge](https://img.shields.io/badge/React_js-yellow) ![Static Badge](https://img.shields.io/badge/Node_js-red) ![Static Badge](https://img.shields.io/badge/Express_js-black) ![Static Badge](https://img.shields.io/badge/Spring-tommto) ![Static Badge](https://img.shields.io/badge/Angular_js-purple) ![Static Badge](https://img.shields.io/badge/Bootstrap-pink) ![Static Badge](https://img.shields.io/badge/jquery-red) 
 - 📖 Database : Mysql ,Sqlite ,Mongodb , Oracle,
 - 📖 Operating System : ![Static Badge](https://img.shields.io/badge/Linux-black) ![Static Badge](https://img.shields.io/badge/windows-blue) ![Static Badge](https://img.shields.io/badge/unbantu-bordeaux)
 - 📖 Design : figma ,adobe Xd ,Photoshop, Canva

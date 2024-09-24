@@ -2,9 +2,11 @@
 - 👀 I’m interested in Development and Quantum Computing
 - 💞️ I'm a FUll stack Developer in Python and also MERN Stack Developer
 - 📫 I am freelancer you can contact with me 8896497776 for any kind of website design and mangement
-- 📖 Programming language : ![Static Badge](https://img.shields.io/badge/C-blue) ![Static Badge](https://img.shields.io/badge/C%2B%2B%20-green) ![Static Badge](https://img.shields.io/badge/JAVA%20-red) ![Static Badge](https://img.shields.io/badge/Python-yellow)
+- 📖 Programming language : ![Static Badge](https://img.shields.io/badge/C-blue) ![Static Badge](https://img.shields.io/badge/C%2B%2B%20-green) ![Static Badge](https://img.shields.io/badge/JAVA%20-red) ![Static Badge](https://img.shields.io/badge/Python-yellow) ![Static Badge](https://img.shields.io/badge/C%23-pink)
 - 📖 Frontend Development ![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-green) ![Static Badge](https://img.shields.io/badge/Javascript-lime) ![Static Badge](https://img.shields.io/badge/Reactjs-blue) ![Static Badge](https://img.shields.io/badge/Bootstarp-yellow)
-- 📖 Backend Node js ,php ,JAVA, Python
+- 📖 Backend Development : ![Static Badge](https://img.shields.io/badge/Node_js-red) ![Static Badge](https://img.shields.io/badge/Python-blue) ![Static Badge] 
+(https://img.shields.io/badge/PHP-green) ![Static Badge](https://img.shields.io/badge/JAVA-lime) ![Static Badge](https://img.shields.io/badge/C%23-skyblue)
+
 - 📖 Frameworks : django, React js, Nodejs ,Express js, Spring ,Angular js ,Hibernate ,laravel ,Jquery, Bootstrap, 
 - 📖 Database : Mysql ,Sqlite ,Mongodb , Oracle,
 - 📖 Operating System : linux, windos,ubantu

@@ -8,7 +8,7 @@
 
 - 📖 Frameworks : django, React js, Nodejs ,Express js, Spring ,Angular js ,Hibernate ,laravel ,Jquery, Bootstrap, 
 - 📖 Database : Mysql ,Sqlite ,Mongodb , Oracle,
-- 📖 Operating System : linux, windos,ubantu
+- 📖 Operating System : ![Static Badge](https://img.shields.io/badge/Linux-black) ![Static Badge](https://img.shields.io/badge/windows-blue) ![Static Badge](https://img.shields.io/badge/unbantu-bordeaux)
 - 📖 Design : figma ,adobe Xd ,Photoshop, Canva
 - 📖 Python Standard Library  : numpy ,pandas, tensorFlow ,Scipy,Scikit-learn
 - 📖 Data visualization tools : PowerBi ,Excel

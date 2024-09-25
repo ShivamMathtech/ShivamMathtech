@@ -12,7 +12,8 @@
 - 📖 Design : ![Static Badge](https://img.shields.io/badge/Figma-coral) ![Static Badge](https://img.shields.io/badge/Adobe-xd-red) ![Static Badge](https://img.shields.io/badge/photoshop-pine) ![Static Badge](https://img.shields.io/badge/Canva-green)
 - 📖 Python Standard Library  : ![Static Badge](https://img.shields.io/badge/numpy-red) ![Static Badge](https://img.shields.io/badge/pandas-yellow) ![Static Badge](https://img.shields.io/badge/tensorflow-green)  ![Static Badge](https://img.shields.io/badge/scipy-pink) ![Static Badge](https://img.shields.io/badge/sklearn-purple)
 - 📖 Data visualization tools : ![Static Badge](https://img.shields.io/badge/PowerBi-purple) ![Static Badge](https://img.shields.io/badge/Excel-red)
-- 📖 Software : Vscode , Anaconda ,Sublime , Jupyter Notebook ,Pycharm ,![Static Badge](https://img.shields.io/badge/intellij-idea-red)
+- 📖 Software : Vscode , Anaconda ,Sublime , Jupyter Notebook![Static Badge](https://img.shields.io/badge/Pycharm-res)
+ ,![Static Badge](https://img.shields.io/badge/intellij-idea-red)
 - 📖 I am highly intersted in the area of Embedded system design and Internet of things
 - 📖 Micro Controller on which I have work : Arduino all -family ,Raspberry pi 4, Esp32 ,8085
 - ⭐ I have done lots of Projects in the development area you can see my all the porject on my Github repo. and find the source code

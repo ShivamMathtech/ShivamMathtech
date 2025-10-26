@@ -21,7 +21,7 @@
 🔹 Love building automation tools, developer utilities, and cloud-based APIs.  
 
 📫 **Reach me:** [drshivam49@gmail.com](mailto:drshivam49@gmail.com)  
-🌍 **Portfolio:** _Coming Soon_  
+🌍 **Portfolio:** [Profile](https://shivam-singh-dev-u8mcud5.gamma.site/) 
 💼 **LinkedIn:** [Shivam Singh](https://linkedin.com/in/shivam-singh-6b7061269)  
 
 ---

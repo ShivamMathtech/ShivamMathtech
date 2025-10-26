@@ -18,7 +18,7 @@
 💡 Experienced in **Node.js, Express, MongoDB, React**, and **modern API architectures**.  
 💬 Love exploring **system design**, **DevOps**, and **data structures & algorithms**.  
 🎯 Currently working on **a Jira-like project management system** and enhancing my **full-stack engineering skills**.  
-📫 Reach me at **shivammathtech@gmail.com**  
+📫 Reach me at **drshivam49@gmail.com**  
 
 ---
 
@@ -27,10 +27,8 @@
   <a href="https://linkedin.com/in/shivam-singh-6b7061269" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam singh" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="mailto:shivammathtech@gmail.com">
+  
+  <a href="drshivam49@gmail.com">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="40" />
   </a>
 </p>

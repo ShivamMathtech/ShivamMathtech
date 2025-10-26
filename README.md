@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/shivam singh" target="blank">
+  <a href="www.linkedin.com/in/shivam-singh-6b7061269" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam singh" height="30" width="40" />
   </a>
   <a href="https://twitter.com/" target="blank">

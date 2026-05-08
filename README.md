@@ -84,7 +84,7 @@
   <a href="https://app.netlify.com/teams/shivammathtech/projects"><img src="https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </a>
   <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/shiva22btcse0007"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/shiva22btcse0007"><img src="https://img.shields.io/badge/Kaggle-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
 ---

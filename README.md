@@ -39,7 +39,9 @@
 <a href="mailto:drshivam49@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<a href="https://drive.google.com/file/d/1qVIv1A6HNaKf8xDmW_KMt_qJknhY-s59/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=Resume&logoColor=white"/>
+</a>
 <a href="https://linkedin.com/in/shivam-singh-6b7061269">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

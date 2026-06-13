@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=shivammathtech&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://shivam-ai-galaxy.lovable.app/&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/shivammathtech?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/stars/shivammathtech?style=for-the-badge&logo=github" />
 

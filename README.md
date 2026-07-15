@@ -1,7 +1,7 @@
 <!-- ===================================================== -->
 <!-- 🚀 NEXT-GEN AI SYSTEMS ENGINEER GITHUB PROFILE README -->
 <!-- ===================================================== -->
-
+   ![image](profilebanner.png)    
 <div align="center">
 
 # ⚡ Shivam Singh
@@ -22,7 +22,7 @@
 
 </div>
 
-   ![image](profilebanner.png)           
+       
 ---
 
 # 🌍 Engineering Vision

@@ -22,7 +22,7 @@
 
 </div>
 
-              
+   ![image](profilebanner.png)           
 ---
 
 # 🌍 Engineering Vision
